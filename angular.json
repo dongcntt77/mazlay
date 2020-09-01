@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mazlay"
+    }
+  },
+  "defaultProject": "mazlay",
+  "cli": {
+    "analytics": "9baf6c42-9f43-4d44-a92f-06a7fdcaee0b"
+  }
 }
