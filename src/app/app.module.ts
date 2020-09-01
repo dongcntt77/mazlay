@@ -13,7 +13,7 @@ const routes: Routes = [
     component: MainComponent,
   }, 
   {
-    path: 'chitiet',
+    path: 'chitiet/:id',
     component: ChitietComponent,
   }, 
 ];
